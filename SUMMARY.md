@@ -44,3 +44,16 @@
 * [Chapter 5: Grammar](./types & gramar/ch5.md)
 * [Appendix A: Mixed Environment JavaScript](./types & gramar/apA.md)
 * [Appendix B: Thank You's!](./types & gramar/apB.md)
+* 
+* [Table of Contents](./async & performance/toc.md)
+
+* [Foreword](./async & performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))
+* [Chapter 1: Asynchrony: Now & Later](./async & performance/ch1.md)
+* [Chapter 2: Callbacks](./async & performance/ch2.md)
+* [Chapter 3: Promises](./async & performance/ch3.md)
+* [Chapter 4: Generators](./async & performance/ch4.md)
+* [Chapter 5: Program Performance](./async & performance/ch5.md)
+* [Chapter 6: Benchmarking & Tuning](./async & performance/ch6.md)
+* [Appendix A: Library: asynquence](./async & performance/apA.md)
+* [Appendix B: Advanced Async Patterns](./async & performance/apB.md)
+* [Appendix C: Thank You's!](./async & performance/apC.md)

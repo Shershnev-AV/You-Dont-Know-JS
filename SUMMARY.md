@@ -20,3 +20,16 @@
 * [Appendix B: Polyfilling Block Scope](./scope & closures/apB.md)
 * [Appendix C: Lexical-this](./scope & closures/apC.md)
 * [Appendix D: Thank You's!](./scope & closures/apD.md)
+* 
+
+* [Table of Contents](./this & object prototypes/toc.md)
+
+* [Foreword](./this & object prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))
+* [Chapter 1: *this* Or That?](./this & object prototypes/ch1.md)
+* [Chapter 2: *this* All Makes Sense Now!](./this & object prototypes/ch2.md)
+* [Chapter 3: Objects](./this & object prototypes/ch3.md)
+* [Chapter 4: Mixing (Up) "Class" Objects](./this & object prototypes/ch4.md)
+* [Chapter 5: Prototypes](./this & object prototypes/ch5.md)
+* [Chapter 6: Behavior Delegation](./this & object prototypes/ch6.md)
+* [Appendix A: ES6 *class*](./this & object prototypes/apA.md)
+* [Appendix B: Thank You's!](./this & object prototypes/apB.md)
